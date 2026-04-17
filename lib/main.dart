@@ -11,7 +11,9 @@ void main(){
               Colors.white,
               Colors.blue,
               Colors.red,
-            ]
+            ],
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
           )
         ),
         child: Center(
